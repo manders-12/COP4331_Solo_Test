@@ -1,2 +1,2 @@
-# Odin-Landing-Page
-Landing Page Project from Odin Project
+# COP4331_Solo_Test
+Testing for COP4331 Project
